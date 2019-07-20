@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/mytodoappreact/static/css/main.c3db600d.chunk.css",
+    "main.js": "/mytodoappreact/static/js/main.b65ee64a.chunk.js",
+    "main.js.map": "/mytodoappreact/static/js/main.b65ee64a.chunk.js.map",
+    "runtime~main.js": "/mytodoappreact/static/js/runtime~main.29ce7607.js",
+    "runtime~main.js.map": "/mytodoappreact/static/js/runtime~main.29ce7607.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/mytodoappreact/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.2d717d87.chunk.js": "/mytodoappreact/static/js/2.2d717d87.chunk.js",
+    "static/js/2.2d717d87.chunk.js.map": "/mytodoappreact/static/js/2.2d717d87.chunk.js.map",
+    "index.html": "/mytodoappreact/index.html",
+    "precache-manifest.c68a799577df759ec5eba0255f98b848.js": "/mytodoappreact/precache-manifest.c68a799577df759ec5eba0255f98b848.js",
+    "service-worker.js": "/mytodoappreact/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/mytodoappreact/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.c3db600d.chunk.css.map": "/mytodoappreact/static/css/main.c3db600d.chunk.css.map"
+  }
+}
